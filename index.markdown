@@ -4,8 +4,8 @@
 
 layout: blog
 title: Annie Li
-feature_text: Hello!
-feature_image: assets/default-social-image.png
+feature_text: <h2>Annie Li</h2> Hello!
+feature_image: https://picsum.photos/1300/400?image=989
 aside: true
 ---
 
