@@ -1,0 +1,16 @@
+- name: CLAID Website
+  descr: "Official website for Chinese Language and International Development Society(CLAID). Provides a clean and informative platform on both mobile and desktop with over 100 weekly users. Utilizes HTML/CSS for frontend development and Ruby for backend."
+  github: https://github.com/peterzukerman/CLAID-Website
+  website: https://claid.club
+
+- name: Oregon Trail 2.0
+  descr: "Software Design Studio final project, used C++ with Cinder and Cinder animation library Choreograph to create a music-based game similar to Oregon Trail; utilized SQLite, JSON and JSON library nlohmann."
+  github: https://github.com/CS126SP20/final-project-annieli2
+
+- name: ChallenLife
+  descr: "Intro to CS final project, used Java in Android Studio to create a life simulator Android game which simulates the life of a student taking CS 125."
+  github: https://github.com/aeahn2/Final_Project
+
+- name: Solve-A-Maze, Save-A-Life (S.A.M.-S.A.L.) 	
+  descr: "Built a robot for Girls Who Code final project, used metal whiskers to navigate through a maze; utilized Python, and Arduino; intended to be expanded for use in search-and-rescue."
+  github: https://github.com/anniekli/S.A.M.-S.A.L.

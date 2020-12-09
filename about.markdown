@@ -5,6 +5,7 @@ layout: aboutme
 feature_text: |
   A little bit about me!
 feature_image: "https://picsum.photos/2560/600?image=873"
+aside: true
 ---
 My name is Annie Li, and I am a sophomore at the University of Illinois. I'm pursuing a double degree in Computer Science and Instrumental Performance for flute, and I am also the Cultural Chair of the Chinese Language and International Development Society(CLAID).
 
@@ -15,9 +16,3 @@ My CS background has been a little more limited. My mom is a software engineer, 
 I was a Course Assistant in Spring 2020 for CS 125 (Intro to CS), where I held office hours in-person and virtually when the university went online. I also assisted in lab sections with about 20 students. I am currently a Course Assistant for CS 126 (Software Design Studio). Over the summer, I reviewed and edited existing assignment documentations for the course, as well as helped create new documentations. During the semester, I hold virtual office hours through our online platform. I also conduct weekly code reviews with 4 students, where I coach my students to utilize better design patterns in Java and C++ assignments. I grade their assignments each week and leave feedback for them to improve upon.
 
 # CS Projects
-
-### CLAID Website ([claid.club](https://claid.club))
-Official website for Chinese Language and International Development Society(CLAID). Provides a clean and informative platform on both mobile and desktop with over 100 weekly users. Utilizes HTML/CSS for frontend development and Ruby for backend.
-
-### Oregon Trail 2.0
-Software Design Studio final project, used C++ with Cinder and Cinder animation library Choreograph to create a music-based game similar to Oregon Trail; utilized SQLite, JSON and JSON library nlohmann.
