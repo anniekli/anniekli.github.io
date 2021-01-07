@@ -25,7 +25,7 @@ Plan what you are going to practice each day. This can be as simple or detailed 
         - 15 minutes long tones
     - Audition excerpts / repertoire
 
-### 4. Keep a practice journal
+### 4. Keep a practice journal.
 
 In order to make sure you are practicing efficiently, keep a journal to log your practice. Write down what you worked on each day, any problem areas or notes, and what you want to work on for your next practice session. This way, instead of trying to remember everything you did the previous day, you can just look back at your journal and know exactly what to focus on when you practice. I use the [bullet journal](https://bulletjournal.com/) format to keep track of my progress.
 
@@ -35,4 +35,8 @@ This is my practice log from earlier this year:
 And this is one week of my practice notes:
 ![Music journal](/assets/music-journal.jpg)
 
-Now, these methods are not fail-safe. I use all of these and I still sometimes find myself struggling to find the motivation to practice. Essentially, it all comes down to you and your willingness to put in the work and practice. But I hope that these ideas will help you along the way.
+### 5. Know when to take a break.
+
+This is probably the most important thing to remember when creating a practice schedule, but is often also the most overlooked. Practicing can often be very taxing, both physically and mentally (and if you're just playing mindlessly through your repertoire, you're probably not doing it right). It is so crucial to know when you are at your limit, and it is absolutely ok if you need to take a break and skip practicing for a day. Not being able to practice for one day does not mean you are a failure or you are falling behind. Especially in times like now, when stress levels are high and mental health is steadily decreasing, make sure you are not pushing yourself too hard. It's important to practice, but it's even more important to value your own health first.
+
+Now, these methods are not fail-safe. I use all of these and I still sometimes find myself struggling to find the motivation to practice. Essentially, it all comes down to you and your willingness to put in the work. But I hope that these ideas will help you along the way.
